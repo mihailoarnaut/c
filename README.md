@@ -1,1 +1,2 @@
-# c
+# C
+Playground for C
